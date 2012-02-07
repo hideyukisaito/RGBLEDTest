@@ -1,4 +1,4 @@
 .sin
 .vcproj
 .vcproj.user
-bin/*.app
+bin/*
